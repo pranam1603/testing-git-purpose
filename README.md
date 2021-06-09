@@ -1,5 +1,5 @@
 # testing-git-purpose
 ## test commit 1
-### test commit 2 
+### test commit 2 conflict
 
 #### testing again
